@@ -8,3 +8,8 @@ services:
       - /Users/mac/Documents/DAT620MSC3set\data\postgres\datMSC3:/data/postgres
     env_file:
       datmsc3.env
+
+
+
+
+      
